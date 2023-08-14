@@ -1,0 +1,41 @@
+body{
+    background-image: url(Main%20page.png);
+}
+.cf{
+    align-content: center;
+    color: dimgrey;
+     padding-left:540px;
+}
+.rectbox{
+    background-color: azure;
+    border: 2px solid black;
+    width: 500px;
+    height: 10px;
+    padding-bottom: 37px;
+    padding-right: 395px;
+    border-radius: 10px;
+}
+.ttle{
+    padding-top: 250px;
+    padding-left:550px;
+    padding-bottom: 50px;
+    font-size: 60px;
+    color: lightcoral;
+}
+.rectangle3
+{
+   
+    place-content: center;
+    background-color:dimgrey;
+    height:25px;
+    width:260px;
+}
+form{
+    align-content: center;
+    color: black;
+    padding-left:550px;
+}
+input{
+    background-color:antiquewhite;
+    
+}
